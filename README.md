@@ -1,17 +1,7 @@
 # github-practice
-Our class about github and git2131233132
+Our class about github and git123
 
 test123
 test1233
 
 
-kljklkljasdf
-
-
-.kjdsakljfasdlkjsdf
-
-
-lkjsdalkjfdsalk
-
-
-lkjkljdsfaljlksadf
